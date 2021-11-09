@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Partition_Info ProgrammerFile="">
+<Part Sel="1" PartitionName="fastboot" FlashType="emmc" FileSystem="none" Start="0" Length="1M" SelectFile="C:\Users\ecoo\Documents\emmc-4g\fastboot.bin"/>
+<Part Sel="1" PartitionName="bootargs" FlashType="emmc" FileSystem="none" Start="1M" Length="4M" SelectFile="C:\Users\ecoo\Documents\emmc-4g\bootargs.bin"/>
+<Part Sel="1" PartitionName="recovery" FlashType="emmc" FileSystem="none" Start="5M" Length="16M" SelectFile="C:\Users\ecoo\Documents\emmc-4g\recovery.img"/>
+<Part Sel="1" PartitionName="deviceinfo" FlashType="emmc" FileSystem="none" Start="21M" Length="1M" SelectFile="C:\Users\ecoo\Documents\emmc-4g\deviceinfo"/>
+<Part Sel="1" PartitionName="baseparam" FlashType="emmc" FileSystem="none" Start="22M" Length="4M" SelectFile="C:\Users\ecoo\Documents\emmc-4g\baseparam.bin"/>
+<Part Sel="1" PartitionName="pqparam" FlashType="emmc" FileSystem="none" Start="26M" Length="4M" SelectFile="C:\Users\ecoo\Documents\emmc-4g\pqparam"/>
+<Part Sel="1" PartitionName="logo" FlashType="emmc" FileSystem="none" Start="30M" Length="4M" SelectFile="C:\Users\ecoo\Documents\emmc-4g\logo.img"/>
+<Part Sel="1" PartitionName="fastplay" FlashType="emmc" FileSystem="none" Start="50M" Length="16M" SelectFile="C:\Users\ecoo\Documents\emmc-4g\fastplay"/>
+<Part Sel="0" PartitionName="misc" FlashType="emmc" FileSystem="none" Start="106M" Length="8M" SelectFile=""/>
+<Part Sel="0" PartitionName="factory" FlashType="emmc" FileSystem="none" Start="114M" Length="24M" SelectFile=""/>
+<Part Sel="0" PartitionName="kernel" FlashType="emmc" FileSystem="none" Start="138M" Length="12M" SelectFile=""/>
+<Part Sel="0" PartitionName="iptv_data" FlashType="emmc" FileSystem="none" Start="150M" Length="8M" SelectFile=""/>
+<Part Sel="0" PartitionName="backup" FlashType="emmc" FileSystem="none" Start="158M" Length="340M" SelectFile="C:\Users\ecoo\Documents\emmc-4g\backup.img"/>
+<Part Sel="0" PartitionName="cache" FlashType="emmc" FileSystem="none" Start="498M" Length="340M" SelectFile=""/>
+<Part Sel="0" PartitionName="system" FlashType="emmc" FileSystem="ext3/4" Start="838M" Length="520M" SelectFile=""/>
+<Part Sel="0" PartitionName="userdata" FlashType="emmc" FileSystem="ext3/4" Start="1358M" Length="-" SelectFile=""/>
+</Partition_Info>
